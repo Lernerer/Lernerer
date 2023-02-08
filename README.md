@@ -20,10 +20,10 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists]()
+- [Test-Suites and Test-Cases]()
+- [Bug-Reports]()
+- [SQL Queries](https://drive.google.com/drive/folders/124Hy3MFFnwTuRRiiLS3HloveBmHmj5D9?usp=share_link)
+- [Postman Collections](https://www.postman.com/avionics-engineer-25307742/workspace/eugene-s-workspace/collection/25293845-da3d851c-c9de-4ffc-bcb1-fd8d6d6f2399?action=share&creator=25293845)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lernerer_icons=true&theme=radical)
